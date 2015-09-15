@@ -1,0 +1,6 @@
+framework module Pods_Week_1_Project__Rotten_Tomatoes {
+  umbrella header "Pods-Week 1 Project: Rotten Tomatoes-umbrella.h"
+
+  export *
+  module * { export * }
+}
